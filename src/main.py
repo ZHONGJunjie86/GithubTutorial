@@ -7,7 +7,7 @@ while True:
     if input_num == 0:
         print('プログラムを終了します')
         break
-    elif input_mum ==1:
+    elif input_num ==1:
         print('hello world')
     # -- ここに処理を追加してみよう --
     else:
